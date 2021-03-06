@@ -30,4 +30,4 @@ A (not quite) beautiful theme for Discord! Thanks to PlusInsta for the original 
 # Credits
  - @PlusInsta for the original theme. Link to his Discord+ repo: https://github.com/PlusInsta/discord-plus
  - u/aabirkashif for the Big Sur wallpaper! Nice job!
- - @ASentientHedgehog for inspiring the project!!!
+ - @moosethegoose2213 for inspiring the project!!!
