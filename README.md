@@ -28,6 +28,6 @@ A (not quite) beautiful theme for Discord! Thanks to PlusInsta for the original 
 5) Enable the theme in Settings
 
 # Credits
- -- @PlusInsta for the original theme. Link to his Discord+ repo: https://github.com/PlusInsta/discord-plus
- -- u/aabirkashif for the Big Sur wallpaper! Nice job!
- -- @ASentientHedgehog for inspiring the project!!!
+ - @PlusInsta for the original theme. Link to his Discord+ repo: https://github.com/PlusInsta/discord-plus
+ - u/aabirkashif for the Big Sur wallpaper! Nice job!
+ - @ASentientHedgehog for inspiring the project!!!
