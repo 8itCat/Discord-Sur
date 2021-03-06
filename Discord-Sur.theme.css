@@ -1,13 +1,13 @@
 /**
  * @name Discord Sur
  * @description A beautiful Discord theme for macOS Big Sur!
- * @source https://github.com/PlusInsta/discord-plus/blob/master/DiscordPlus.theme.css
+ * @source https://github.com/AvaQueen-Official/Discord-Sur/blob/main/DiscordSur-Source.theme.css
  * @author AvaQueen
- * @authorLink https://plusinsta.carrd.co
+ * @authorLink https://github.com/AvaQueen-Official
  * @version 0.0.1
  * @website https://github.com/AvaQueen-Official/Discord-Sur
 */
-@import url(//plusinsta.github.io/discord-plus/DiscordPlus.theme.css);
+@import url(//queen-enterprises.github.io/DiscordSur.theme.css);
 
 /* I've commented most of these values so you can change them yourself.
    If you're having trouble, or you want to do more than what these values
@@ -27,7 +27,7 @@
 /* Background image. Falls back to accent color if invalid.
    To use an image on your computer, send it anywhere on Discord,
    then right-click and Copy Link, then paste it below. */
---dplus-background: url(https://preview.redd.it/oiyekfak8el51.jpg?width=10668&format=pjpg&auto=webp&s=202ce81671b3b4c15c115cfdb7a3db5a7f21ddf5);
+--dplus-background: url(//queen-enterprises.github.io/BigSur-Modified.png);
 
 /* Accent color, used to decorate the UI with colors. */
 --dplus-accent-color: #802060;
