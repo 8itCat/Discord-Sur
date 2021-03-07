@@ -27,6 +27,9 @@ A (not quite) beautiful theme for Discord! Thanks to PlusInsta for the original 
 4) Run `discord`
 5) Enable the theme in Settings
 
+# Disclaimer !!IMPORTANT!!
+Do ***NOT*** use this with light mode. I am not responsible for any blindness caused by my theme on light mode. Please spare yourself the trouble ;)
+
 # Credits
  - @PlusInsta for the original theme. Link to his Discord+ repo: https://github.com/PlusInsta/discord-plus
  - u/aabirkashif for the Big Sur wallpaper! Nice job!
