@@ -731,7 +731,7 @@ canvas.canvas-3XuBXe {opacity: 0.6;}
 	/* New/Old/Load messages bar */
 .newMessagesBar-265mhP {
 	background-color: var(--dplus-accent-color) !important;
-	border-radius: 0 0 var(--dplus-ui-radius) var(--dplus-ui-radius) !important;
+	border-radius: 5 5 var(--dplus-ui-radius) var(--dplus-ui-radius) !important;
 	width: 100%;
 }	
 .newMessagesBar-265mhP button:first-child {
