@@ -27,6 +27,10 @@ A (not quite) beautiful theme for Discord! Thanks to PlusInsta for the original 
 4) Run `discord`
 5) Enable the theme in Settings
 
+# How it looks
+Updated for v0.0.1:
+![Screen Shot 2021-03-07 at 6 28 29 PM](https://user-images.githubusercontent.com/79278890/110258952-1f6aed80-7f73-11eb-8362-a0124b591474.png)
+
 # Disclaimer !!IMPORTANT!!
 Do ***NOT*** use this with light mode. I am not responsible for any blindness caused by my theme on light mode. Please spare yourself the trouble ;)
 
