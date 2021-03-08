@@ -4,7 +4,7 @@
  * @source https://github.com/AvaQueen-Official/Discord-Sur/blob/main/DiscordSur-Source.theme.css
  * @author AvaQueen
  * @authorLink https://github.com/AvaQueen-Official
- * @version 0.0.1
+ * @version 0.0.2
  * @website https://github.com/AvaQueen-Official/Discord-Sur
 */
 @import url(//queen-enterprises.github.io/DiscordSur.theme.css);
@@ -30,7 +30,7 @@
 --dplus-background: url(//queen-enterprises.github.io/BigSur-Modified.png);
 
 /* Accent color, used to decorate the UI with colors. */
---dplus-accent-color: #802060;
+--dplus-accent-color: #979595;
 
 /* Fonts */
   /* Display (Discord UI) */
