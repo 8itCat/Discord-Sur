@@ -62,6 +62,11 @@
 --dplus-bg-light-4: hsla(0, 0%, 95%, 0.94);
 }
 
+/* Change Home icon picture */
+#app-mount .tutorialContainer-1v44GL .childWrapper-anI2G9 {
+   background: url(//queen-enterprises.github.io/apple_logo_PNG19671.png) center/cover;
+}
+
 /* You can drop your custom CSS below here.
    If it doesn't work, try adding !important to the end of the affected value.
    If you need help with this, please don't hesitate to drop by our server! */
