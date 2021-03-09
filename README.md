@@ -32,7 +32,7 @@ Feel free to play around with the easy to use code. It's just as much yours as m
 
 # How it looks
 Updated for v0.0.2:
-
+![Screen Shot 2021-03-09 at 10 49 39 AM](https://user-images.githubusercontent.com/79278890/110498383-43d6df00-80c5-11eb-87e8-879f2737fa6a.png)
 Note: some things may vary based on plugins installed. May not look identical. 
 
 # Disclaimer !!IMPORTANT!!
