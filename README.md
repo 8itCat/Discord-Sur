@@ -46,6 +46,6 @@ Do ***NOT*** use this with light mode. I am not responsible for any blindness ca
  - @moosethegoose2213 for inspiring the project!!!
 
 # Contact
- - @AvaQueen#0001 -> Discord
+ - @8itCat#1949 -> Discord
  - u/QueenVengeance -> Reddit
 
