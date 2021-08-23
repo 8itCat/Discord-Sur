@@ -1,4 +1,4 @@
-# IMPORTANT: Due to the 5th anniversary Discord UI update on May 15th, 2021, this theme is now broken. 
+# IMPORTANT: Due to the 6th anniversary Discord UI update on May 15th, 2021, this theme is now broken. 
 
 # Discord-Sur
 A (not quite) beautiful theme for Discord! Thanks to PlusInsta for the original theme that I'm modifying!
